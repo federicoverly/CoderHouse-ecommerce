@@ -14,3 +14,9 @@ Update of the stock and check upon decision.
 ## Working on
 
 Authentification. Doesn't want to work out! 
+
+## Instructions 
+
+npm install
+npm start
+And just open your browser on localhost/3000!
