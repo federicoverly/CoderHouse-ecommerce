@@ -5,7 +5,7 @@ import Hero from '../../components/Hero/Hero';
 import ItemList from '../ItemList/ItemList';
 import { getFirestore } from '../../firebase';
 
-//Probando agregar cambios
+//Probando agregar cambios , y?
 
 const Home = () => {    
     const { categoryID  } = useParams();
