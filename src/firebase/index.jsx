@@ -3,7 +3,7 @@ import 'firebase/firestore';
 import 'firebase/auth';
 
 const app = firebase.initializeApp({
-    apiKey: "AIzaSyBC4Q5sKXaZBMo2jH9gMJabHxHryghSaHE",
+    apiKey: process.env.API_KEY,
     authDomain: "janine-ecommerce.firebaseapp.com",
     databaseURL: "https://janine-ecommerce.firebaseio.com",
     projectId: "janine-ecommerce",
