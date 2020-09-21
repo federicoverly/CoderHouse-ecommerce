@@ -1,0 +1,23 @@
+
+.footer {
+    color: white;
+    margin-top: 20vh;
+    height:4vh;
+    background-color: black;
+    bottom: 0;
+    left: 0;
+    width:100vw;
+    position:fixed;
+    display: flex;
+    justify-content:center;
+}
+
+.footer_text{
+    text-align: center;
+    padding-bottom: 3vh;
+}
+
+.phantom{
+    height:10vh;
+    background-color:white;
+}

@@ -1,0 +1,60 @@
+.About_me {
+    padding-top: 30vh;
+    background-color: #222222;
+    color:white;
+}
+
+.titles_containers{
+    display:inline-block;
+    justify-content:left;
+    padding-bottom:4vh;
+}
+
+.about_me_subtitle{
+    color: white;
+    opacity: 0.5;
+}
+
+.about_me_title{
+    color:white;
+}
+
+.about_me_pic{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.about_me_pic img{
+    width: 30vw;
+    height: 60vh;
+}
+
+.about_me_description{
+    display: flex;
+    justify-content: center;
+    text-align:center;
+    align-items: center;
+}
+
+.contact_container1{
+    padding-top:5vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+}
+
+.contact_container{
+    display:inline-block;
+    justify-content:center;
+    text-align:center;
+}
+
+.contact_container p {
+    opacity: 0.5;
+}
+
+.contact_container h5:hover {
+    opacity: 0.5;
+    cursor: pointer;
+}

@@ -1,0 +1,35 @@
+
+.item_title{
+    text-align: center;
+}
+
+.item_container{
+    display:flex;
+    justify-content: center;
+}
+
+.item_image img{
+    width: 20vw;
+    height: 50vh;
+    padding-top: 10vh;
+    transition: .5s ease;
+    backface-visibility: hidden;
+    opacity:1;
+}
+
+.item_name {
+    transition: .5s ease;
+    opacity: 0;
+    margin: -3vh;  
+    text-align: center;
+    text-decoration:none;
+    color: #222222;
+}
+
+.item_image:hover img {
+    opacity: 0.3;
+  }
+  
+.item_image:hover .item_name {
+    opacity: 1;
+  }

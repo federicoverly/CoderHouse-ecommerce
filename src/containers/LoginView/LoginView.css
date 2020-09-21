@@ -1,0 +1,17 @@
+.login_form_container{
+    margin-top: 30vh;
+    display: block;
+
+}
+
+.login_button{
+    height: 10vh;
+    width:15vw;
+    background-color:#222222;
+}
+
+.login_form_container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}

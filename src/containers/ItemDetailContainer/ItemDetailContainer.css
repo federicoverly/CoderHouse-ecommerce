@@ -1,0 +1,22 @@
+.itemImage{
+    display:flex;
+    justify-content: center;
+}
+
+.itemImage img{
+    padding-top: 5vh;
+    height: 70vh;
+    width: 30vw;
+}
+
+.itemTitle{
+    text-align:center;
+}
+
+.itemDescription{
+    text-align:center;
+}
+
+.itemPrice{
+    text-align:center;
+}

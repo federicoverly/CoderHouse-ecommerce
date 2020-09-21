@@ -1,0 +1,14 @@
+.Item_detail {
+    padding-top:30vh;
+}
+
+.item_counter{
+    display:flex;
+    justify-content:center;
+}
+
+.spinner_container{
+    display: flex;
+    justify-content: center;
+    padding-top: 15vh;
+}

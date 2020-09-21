@@ -1,0 +1,9 @@
+.designs_container{
+    margin-top:30vh;
+}
+
+.designs_container img{
+    width: 20vw;
+    height: 60vh;
+    padding-top: 10vh;
+}

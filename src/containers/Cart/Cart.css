@@ -1,0 +1,98 @@
+.shopping_bag{
+    margin-top: 30vh;
+    text-align: center;
+}
+
+.cart_container{
+    display: flex;
+    justify-content: center;
+}
+
+.buying_item_container{
+    background-color: white;
+    border: solid 1px #222222;
+    height: 20vh;
+    width: 140vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    margin-bottom: 1vh;
+}
+
+.buying_item_container_image{
+    display: flex;
+    justify-content: center;
+}
+
+.buying_item_container_price{
+    display: flex;
+    justify-content: center;
+}
+
+.buying_item_container_amount{
+    display: flex;
+    justify-content: center;
+}
+
+.buying_item_container_total{
+    display: flex;
+    justify-content: center;
+}
+
+.buying_item_container_delete{
+    display: flex;
+    justify-content: center;
+}
+
+.times_icon:hover{
+    cursor: pointer;
+}
+
+.svg-inline--fa.fa-w-11 {
+    height:4vh;
+    width:4vw;
+}
+
+.paying_container{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    text-align:center;
+}
+
+.shopping_bag_total{
+    display: flex;
+    justify-content: center;
+}
+
+.pay_button{
+    height: 10vh;
+    width:15vw;
+    background-color:#222222;
+}
+
+.empty_cart {
+    display:flex;
+    justify-content: center;
+}
+
+.checkout_form{
+    padding-top:10vh;
+}
+
+.form_container{
+    padding-left:10vw;
+}
+
+.button_container{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+}
+
+.checkout_button{
+    height: 10vh;
+    width:15vw;
+    background-color:#222222;
+}
